@@ -8,7 +8,7 @@ I have my entire carreer in IT area. Since the technical high school in data pro
 
 ## Aqui vai o resumo 📃
 Trabalhei boa parte da minha vida com infraestrutura de TI. Trabalho que ainda faço e gosto, sou DBA Oracle e PostgreSQL.
-Nos lugares que passei tive oportunidades de desenvolver projetos paralelos, pricipalmente para o apoio do trabalho que fazia com infra. Desenvi diversos scripts e aplicações em shell scripts. Entre um tempo e outro livre dentro do trabalho, tive oportunidade de desenvolver uma aplicação web (foi em ASP) e com isso comecei o gosto pela coisa.
+Nos lugares que passei tive oportunidades de desenvolver projetos paralelos, principalmente para o apoio do trabalho que fazia com infra. Desenvolvi diversos scripts e aplicações em shell scripts. Entre um tempo e outro livre dentro do trabalho, tive oportunidade de desenvolver uma aplicação web (foi em ASP) e com isso comecei o gosto pela coisa.
 Trabalho atualmente no Tribunal Regional do Trabalho da 1ª Região e venho desempenhando um cargo especializado em tecnologia de informação. Aqui passei na admministração da infra de sistemas Linux e JBoss (Java). Atualmente atuo como DBA.
 
 Meu forte conhecimento de shell script me permitiu desenvolver projetos para clonagens de bancos de dados, verificações de disponibilidades e integração de aplicações. Ainda tive o prazer de desenvolver um projeto de uma aplicação web em PHP e Javascript.
@@ -23,15 +23,15 @@ Actually i'm a public server, working in a Court and I have been working in a jo
 
 ## O que tenho em mente 🤯
 
-- Resolvi focar meu aprendizado em desenvolvimento em Javascript, pricipalmente em React.
+- Aprender desenvovimento em Javascript (React com Next.js).
 
-- Com este aprendizado procurarei colaborar com o desenvolvimento de aplicações abertas (open source), pois acredito que a colaboração de todos cria uma sociedade mais justa
+- Aprender Ansible e automatizar processos ligados a administração de banco de dados. Já vi algumas receitas prontas para Oracle e PostgreSQL.
 
 - Outras coisas que me divertem são os amigos, os inimigos, um bom filme ou série, uma boa bebida, viagens, jogos e etc.
 
 ## What I have in my mind
-- I decided to point my learning to Javscript development, specially in React.
-- With that learning I have intention to collaborate in open source application, because I bileave a collaboration of all makes a fairer society.
+- Learn development in Javascript (React with Next.js).
+- Learn Ansible to automate DBA process. I already saw some receipes for Oracle and PostgreSQL.
 - Others things that amuse me are friends, enemies, a good movie or serie, a good drink, travel, games and etc.
 
 
